@@ -1,0 +1,2 @@
+# Dining-Philospher-s-Problem
+This is my implementation in Java of Tanenbaum's solution to a famous problem in Computer Science which is the Dining Philosophers problem. To see a full description of the problem feel free to check out this link (https://en.wikipedia.org/wiki/Dining_philosophers_problem). This is used to solidify concurrent algorithm design and  to illustrate synchronization issues and techniques for resolving them with the help of Semaphores.
